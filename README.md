@@ -1,5 +1,5 @@
 ## 📖 Master's Thesis
-My full master's thesis, titled **"The associations between soil properties and aphid abundance in soybean agroecosystem"**, is officially published and available for download here:
+My full master's thesis, titled **"大豆農業生態系中土壤環境因子與蚜蟲豐度關聯性 The associations between soil properties and aphid abundance in soybean agroecosystem"**, is officially published and available for download here:
 * [NTU Theses and Dissertations Repository (臺灣大學碩博士論文典藏系統)](http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/101430)
 * Permanent DOI: (https://doi.org/10.6342/NTU202600178))
 
