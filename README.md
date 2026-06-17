@@ -48,3 +48,9 @@ library(emmeans)       # Estimated marginal means
 library(multcomp)      # Post-hoc multiple comparisons
 library(multcompView)  # Compact letter display conversion
 library(rcompanion)    # Normality histograms & distribution checks
+
+---
+
+## 👥 作者與專案背景 (Author & Context)
+- **開發者 (Developer):** 楊丹宏 (Dan-Hong Yang) | 國立臺灣大學昆蟲學系碩士
+- **研究室 (Laboratory):** NTU Insect-Plant Interactions Lab (指導：Dr. Po-An Lin、Dr. Steven Wu)
