@@ -1,6 +1,7 @@
 # 📊 Soybean Agroecosystem Microclimate Analysis (圖二)
 
-This repository contains the R programming workflow and automated data visualization pipeline used to analyze and plot microclimate dynamics (Soil Temperature, Soil Moisture, and Soil Electrical Conductivity) within the soybean agroecosystem for **Chapter 4 (Discussion) / Figure 1 & 2** of my Master's Thesis.
+This repository contains the R programming workflow and automated data visualization pipeline used to analyze and plot microclimate dynamics (Soil Temperature, Soil Moisture, and Soil Electrical Conductivity) within the soybean agroecosystem for **Chapter 3 (Results) / Fig. 2** of my Master's Thesis.
+My Master's Thesis only showed the results of soil moisture and soil electrical conductivity.
 
 ---
 
