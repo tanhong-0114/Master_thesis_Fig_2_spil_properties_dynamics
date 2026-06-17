@@ -1,3 +1,8 @@
+## 📖 Master's Thesis
+My full master's thesis, titled **"The associations between soil properties and aphid abundance in soybean agroecosystem"**, is officially published and available for download here:
+* [NTU Theses and Dissertations Repository (臺灣大學碩博士論文典藏系統)](http://tdr.lib.ntu.edu.tw/jspui/handle/123456789/101430)
+**Permanent DOI (Airiti Library)**: (https://doi.org/10.6342/NTU202600178)]([https://doi.org/10.6342/NTU202600178](https://doi.org/10.6342/NTU202600178))
+
 # 📊 Soybean Agroecosystem Microclimate Analysis (圖二)
 
 This repository contains the R programming workflow and automated data visualization pipeline used to analyze and plot microclimate dynamics (Soil Temperature, Soil Moisture, and Soil Electrical Conductivity) within the soybean agroecosystem for **Chapter 3 (Results) / Fig. 2** of my Master's Thesis.
