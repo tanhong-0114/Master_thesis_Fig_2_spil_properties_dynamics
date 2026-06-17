@@ -4,6 +4,8 @@ My full master's thesis, titled **"The associations between soil properties and 
 * **Permanent DOI**: [https://doi.org/10.6342/NTU202600178](https://doi.org/10.6342/NTU202600178)
 * (Note: The full text of the thesis is written in Chinese, while the abstract is available in both English and Chinese).
 
+
+
 # 📊 Soybean Agroecosystem Microclimate Analysis (圖二)
 
 This repository contains the R programming workflow and automated data visualization pipeline used to analyze and plot microclimate dynamics (Soil Temperature, Soil Moisture, and Soil Electrical Conductivity) within the soybean agroecosystem for **Chapter 3 (Results) / Fig. 2** of my Master's Thesis.
@@ -49,10 +51,3 @@ library(multcomp)      # Post-hoc multiple comparisons
 library(multcompView)  # Compact letter display conversion
 library(rcompanion)    # Normality histograms & distribution checks
 
-
-
----
-
-## 👥 作者與專案背景 (Author & Context)
-- **開發者 (Developer):** 楊丹宏 (Dan-Hong Yang) | 國立臺灣大學昆蟲學系碩士
-- **研究室 (Laboratory):** NTU Insect-Plant Interactions Lab (指導：Dr. Po-An Lin、Dr. Steven Wu)
